@@ -4,7 +4,7 @@
 
 # Как использовать
 
-```#!python
+```python
 from quadratic_equation import get_roots
 
 # вывести корни уравнения a*x*2 + b*x + c = 0
