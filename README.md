@@ -4,7 +4,7 @@
 
 # Как использовать
 
-```
+```#!python
 from quadratic_equation import get_roots
 
 # вывести корни уравнения a*x*2 + b*x + c = 0
@@ -19,7 +19,7 @@ print(get_roots(1, -2, 1))
 
 Запуск на Linux:
 
-```bash
+```#!bash
 python tests.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
 ```
 
